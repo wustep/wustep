@@ -1,4 +1,11 @@
-### Hi there 👋
+## Stephen Wu
+
+- 😄 Pronouns: (he/him/his)
+- 🎵 Currently working on: some music & MIDI projects!
+
+Find me at:
+- 💼 [linkedin.com/in/wustep](https://linkedin.com/in/wustep) 
+- 🌎 [wustep.me](https://wustep.me)
 
 <!--
 **wustep/wustep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
