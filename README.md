@@ -1,11 +1,13 @@
 ## Stephen Wu
 
 - 😄 Pronouns: (he/him/his)
-- 🎵 Currently working on: some music & MIDI projects!
+- 🧑‍💻 Work: I'm a software engineer on [Notion](notion.so)'s Collections team!
 
 Find me at:
 - 💼 [linkedin.com/in/wustep](https://linkedin.com/in/wustep) 
 - 🌎 [wustep.me](https://wustep.me)
+
+☎️ [Contact me!](https://wustep.typeform.com/to/LR3jOI?typeform-source=github.com/wustep)
 
 <!--
 **wustep/wustep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
