@@ -1,7 +1,7 @@
 ## Stephen Wu
 
 - 😄 Pronouns: (he/him/his)
-- 🧑‍💻 Work: I'm a software engineer on [Notion](notion.so)'s Collections team!
+- 🧑‍💻 Work: I'm a software engineer on [Notion](notion.so)'s Databases team!
 
 Find me at:
 - 💼 [linkedin.com/in/wustep](https://linkedin.com/in/wustep) 
