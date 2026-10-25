@@ -1,7 +1,7 @@
 ## Stephen Wu
 
-- 😄 Pronouns: (he/him/his)
-- 🧑‍💻 Work: I'm a software engineer building [Notion](notion.so).
+- 🌆 I live in San Francisco, CA
+- 🧑‍💻 I'm a tech lead manager building [Notion](notion.so) with my friends.
 
 Find me at:
 - 🌎 [wustep.me](https://wustep.me)
