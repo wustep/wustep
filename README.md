@@ -9,7 +9,7 @@ Find me at:
 - 🐦 [x.com/wustep](https://x.com/wustep)
 
 Some of my favorite projects:
-- [contraptions/clare-de-lune](https://contraptions.wustep.me/shows/clair-de-lune/): a rube goldberg machine
+- [contraptions/clair-de-lune](https://contraptions.wustep.me/shows/clair-de-lune/): a rube goldberg machine
 - [contraptions/interstellar](https://contraptions.wustep.me/shows/interstellar/): a rube goldberg movie
 - [stagebench](https://stagebench.vercel.app/): a benchmark for coding agents to recreate the nord stage 4
 
